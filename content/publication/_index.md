@@ -1,8 +1,6 @@
 ---
 title: Publications
 
-ABCD. Journal ABC
-
 # View.
 #   1 = List
 #   2 = Compact
