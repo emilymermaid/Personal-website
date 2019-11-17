@@ -3,7 +3,7 @@
 name: Ngai Keung (Oliver) Chan
 
 # Username (this should match the folder name)
-authors:
+authors: Ngai Keung Chan
 - admin
 
 # Is this the primary user of the site?
