@@ -33,7 +33,6 @@ education:
     institution: Cornell University
     year: 2016 - Present
   - course: MPhil. In Communication
-    Committee Members: xxxxxxxx
     institution: The Chinese University of Hong Kong
     year: 2016
   - course: BSSc. in Government and Public Administration
