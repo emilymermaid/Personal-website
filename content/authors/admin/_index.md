@@ -34,7 +34,7 @@ education:
     institution: Cornell University
     year: 2016 - Present
   - course: MPhil. In Communication
-    Committee Members: 
+    Committee Members: xxxxxxxx
     institution: The Chinese University of Hong Kong
     year: 2016
   - course: BSSc. in Government and Public Administration
@@ -48,13 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:nc478@cornell.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ngaikeungchan
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=l88_qZAAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
