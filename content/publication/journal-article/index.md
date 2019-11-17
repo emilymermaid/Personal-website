@@ -1,10 +1,9 @@
 ---
-title: "An example journal article"
+title: "The rating game: The discipline of Uber's user-generated ratings"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2019-03-31T00:00:00Z"
+doi: "10.24908/ss.v17i1/2.12911"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,10 +15,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Surveillance & Society, 17*(1/2)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+On-demand labor platforms are built around user-generated rating systems that entail consumers’ monitoring of workers as a tool for algorithmic labor management. The user-generated ratings can directly determine workers’ employability. Workers are thus under pressure to score well, though they may lack knowledge about the performance metrics. Using in-depth interviews with Uber drivers, this article examines how Uber’s rating system as an engine of anxiety shapes drivers’ work practices through processes of surveillance and normalization. Specifically, drivers are prompted to play the rating game, a game that pressures them toward the normalization of platform surveillance and self-discipline for maximizing their ratings. The internalization of ratings is channeled through drivers’ reactive practices in the rating game—that is, drivers’ modification of their behavior in response to being evaluated and monitored. This article considers the socio-technical conditions under which drivers are subject to the platform surveillance and disciplinary power.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -31,7 +30,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/12911/8493
 url_code: ''
 url_dataset: ''
 url_poster: ''
