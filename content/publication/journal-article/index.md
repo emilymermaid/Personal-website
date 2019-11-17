@@ -18,7 +18,6 @@ publication_types: ["2"]
 publication: "*Surveillance & Society, 17*(1/2)"
 publication_short: ""
 
-On-demand labor platforms are built around user-generated rating systems that entail consumers’ monitoring of workers as a tool for algorithmic labor management. The user-generated ratings can directly determine workers’ employability. Workers are thus under pressure to score well, though they may lack knowledge about the performance metrics. Using in-depth interviews with Uber drivers, this article examines how Uber’s rating system as an engine of anxiety shapes drivers’ work practices through processes of surveillance and normalization. Specifically, drivers are prompted to play the rating game, a game that pressures them toward the normalization of platform surveillance and self-discipline for maximizing their ratings. The internalization of ratings is channeled through drivers’ reactive practices in the rating game—that is, drivers’ modification of their behavior in response to being evaluated and monitored. This article considers the socio-technical conditions under which drivers are subject to the platform surveillance and disciplinary power.
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
