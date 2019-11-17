@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a fourth year Ph.D. candidate in the Department of Communication at Cornell University.
+I'm a fourth year Ph.D. candidate in the Department of Communication at Cornell University. In Progress
 
 
