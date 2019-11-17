@@ -26,8 +26,6 @@ rsync -av ../themes/academic/exampleSite/content/post/_index.md ../content/post/
 rsync -av ../themes/academic/exampleSite/content/publication/_index.md ../content/publication/_index.md
 rsync -av ../themes/academic/exampleSite/content/talk/_index.md ../content/talk/_index.md
 
-hugo new --kind publication publication/<my-publication>
-
 # Skip static dir - do not import the demo's media library
 
 #################################################
