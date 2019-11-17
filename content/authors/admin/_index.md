@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Ngai Keung (Oliver) Chan
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,23 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Department of Communication, Cornell University
+  url: "https://communication.cals.cornell.edu/people/oliver-ngai-keung-chan/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Metric Culture
+- Gig Economy
+- Sociology of Quantification
+- Critical Data Studies
+- Politics of Algorithms
+- The Impacts of Technologies on Service Work
 
 education:
   courses:
