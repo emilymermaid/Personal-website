@@ -1,9 +1,9 @@
 ---
 # Display name
-name: Ngai Keung (Oliver) Chan
+name: Ngai Keung Chan
 
 # Username (this should match the folder name)
-authors:
+authors: 
 - admin
 
 # Is this the primary user of the site?
