@@ -67,12 +67,12 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
->>>>>>> parent of d8fd49a... Update _index.md
+
 =======
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
->>>>>>> parent of d8fd49a... Update _index.md
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -87,11 +87,6 @@ user_groups:
 <<<<<<< HEAD
 <<<<<<< HEAD
 I'm a fourth year Ph.D. candidate in the Department of Communication at Cornell University. In Progress
-=======
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
->>>>>>> parent of d8fd49a... Update _index.md
-=======
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
->>>>>>> parent of d8fd49a... Update _index.md
+
 
 
