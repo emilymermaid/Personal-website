@@ -18,7 +18,7 @@ publication_types: ["2"]
 publication: "*New Media & Society, 21*(1), 119-138"
 publication_short: ""
 
-abstract: 
+abstract: Social media users are routinely counseled to cultivate their online personae with acumen and diligence. But universal prescriptions for impression management may prove for vexing for college students, who confront oft-conflicting codes of normative self-presentation in digital contexts. Against this backdrop, our research sought to examine the online self-presentation activities of emerging adults (18–24) across an expansive social media ecology that included Facebook, Instagram, LinkedIn, Snapchat, and Twitter. Drawing upon in-depth interviews with 28 college-aged youth, we highlight how the imagined surveillance of various social actors steered their self-presentation practices in patterned ways. After exploring three distinct responses to imagined surveillance—including the use of privacy settings, self-monitoring, and pseudonymous accounts (including Finstas, or fake Instagram)—we consider the wider implications of a cultural moment wherein users are socialized to anticipate the incessant monitoring of social institutions\colon family, educators, and above all, (future) employers.
 
 # Summary. An optional shortened abstract.
 
@@ -38,30 +38,5 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
----
