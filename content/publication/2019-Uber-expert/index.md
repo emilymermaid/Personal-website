@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*New Media & Society, 21*(9), 2048-2067"
 publication_short: ""
 
-abstract: 
+abstract: There is a new cast of self-proclaimed experts offering “how-to-succeed” resources aimed at coaching and inspiring gig workers. The emergence of such resources raises questions about the performance of expertise regarding the workings of algorithmic labor platforms. This article examines how Uber driver/bloggers—workers who are driving for Uber, while also creating Uber-related video content—perform expertise in driving for Uber on YouTube. I conducted in-depth interviews with 11 driver/bloggers and a qualitative analysis of the textual and video content published by driver/bloggers. Through the data, I show how driver/bloggers’ empowerment narratives became intertwined with their individualistic aspirations to develop dual careers as Uber drivers and YouTubers. Driver/bloggers employed three self-presentation strategies to perform expertise, including the construction of uniqueness and “know-how,” realness, and relatability with audiences. The study concludes with implications for our collective understandings of gig workers, expertise, and online curation across a wider platform ecology.
 
 # Summary. An optional shortened abstract.
 
@@ -31,7 +31,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 
-url_publisher: https://journals.sagepub.com/doi/abs/10.1177/1461444818791318
+url_publisher: https://journals.sagepub.com/doi/abs/10.1177/1461444819837736
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -56,13 +56,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
----
