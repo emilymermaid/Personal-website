@@ -58,4 +58,9 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-
+  # {{% alert note %}}
+  # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+  # {{% /alert %}}
+  # {{% alert note %}}
+  # Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+  # {{% /alert %}}
