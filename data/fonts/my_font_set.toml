@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Old+Standard+TT:400i|Rubik"
+google_fonts = "Arvo|Lato"
 
 # Font families
-heading_font = "Old Standard TT"
-body_font = "Rubik"
-nav_font = "Rubik"
-mono_font = "Rubik"
+heading_font = "Arvo"
+body_font = "Lato"
+nav_font = "Lato"
+mono_font = "Lato"
