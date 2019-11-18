@@ -23,7 +23,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Metric Culture
 - Gig Economy
-- Sociology of Quantification
 - Critical Data Studies
 - Politics of Algorithms
 - The Impacts of Technologies on Service Work
