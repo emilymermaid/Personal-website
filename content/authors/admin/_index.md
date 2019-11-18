@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ngai Keung Chan
+name: Ngai Keung (Oliver) Chan
 
 # Username (this should match the folder name)
 authors: 
