@@ -1,5 +1,5 @@
 ---
-title: ""Becoming an expert in driving for Uber'': Uber driver/bloggers'
+title: "''Becoming an expert in driving for Uber'': Uber driver/bloggers'
 performance of expertise and self-presentation on YouTube"
 authors:
 - Chan, N. K.
