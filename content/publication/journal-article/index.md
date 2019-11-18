@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "The rating game: The discipline of Uber's user-generated ratings"
 authors:
 - admin
 date: "2019-03-31T00:00:00Z"
