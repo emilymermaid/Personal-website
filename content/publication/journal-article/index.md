@@ -1,7 +1,7 @@
 ---
 title: "The rating game: The discipline of Uber's user-generated ratings"
 authors:
-- admin
+- Chan, N. K.
 date: "2019-03-31T00:00:00Z"
 doi: "10.24908/ss.v17i1/2.12911"
 
