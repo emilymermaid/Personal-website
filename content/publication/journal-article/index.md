@@ -54,7 +54,8 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: example
-
+---
+---
 title: "``You never really know who's looking'': Imagined surveillance across social media platforms"
 authors:
 - Duffy, B. E.
