@@ -23,7 +23,7 @@ abstract: Drawing insights from the literature around cultural discourse theory,
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Social space
 featured: false
 
 # links:
