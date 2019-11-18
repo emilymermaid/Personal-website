@@ -23,7 +23,9 @@ abstract: On-demand labor platforms are built around user-generated rating syste
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Uber
+- metrics
+- Politics of algorithms
 featured: false
 
 # links:
