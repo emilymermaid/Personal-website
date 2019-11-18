@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*China Perspectives, 2017/3*, 7-16"
+publication: "*China Perspectives, 2017/ 3*, 7-16"
 publication_short: ""
 
 abstract: Social movements are voluntary events whose participants have the right to leave whenever they disagree with their leaders. For this reason, the legitimacy of social movements is often perceived as inherent and thus of only secondary importance. This article aims to repudiate this view by demonstrating that legitimacy issues can impose constraints and have significant impacts on the relationships and decisions of the leaders of social movements. In the case of the Umbrella Movement, bottom-up legitimacy challenges to movement leaders’ authority not only forced the leaders to reform their decision-making structure and even implement direct democracy, but also intensified the relationships among the leaders of different factions, ultimately undermining the leadership’s overall effectiveness.
