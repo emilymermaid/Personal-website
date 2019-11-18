@@ -1,5 +1,5 @@
 ---
-title: "''You never really know who's looking'': Imagined surveillance across social media platforms"
+title: "''Predicting social capital on Facebook: The implications of use intensity, perceived content desirability, and Facebook-enabled communication practices"
 authors:
 - Su, C. C., \& Chan, N. K.
 date: "2017-07-31T00:00:00Z"
