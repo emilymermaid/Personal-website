@@ -23,7 +23,10 @@ abstract: Digital data have become a form of “objectivation”, which affect h
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Uber
+- Gig Economy
+- Social space
+- Politics of algorithms
 featured: false
 
 # links:
