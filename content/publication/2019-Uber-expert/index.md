@@ -24,7 +24,8 @@ abstract: There is a new cast of self-proclaimed experts offering “how-to-succ
 # Summary. An optional shortened abstract.
 
 tags:
-- Source Themes
+- Uber
+- Gig Economy
 featured: false
 
 # links:
