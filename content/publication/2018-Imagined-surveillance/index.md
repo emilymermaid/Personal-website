@@ -1,8 +1,7 @@
 ---
 title: "``You never really know who's looking'': Imagined surveillance across social media platforms"
 authors:
-- Duffy, B. E. \& 
-__Chan, N. K.__
+- Duffy, B. E. \& Chan, N. K.
 date: "2019-01-01T00:00:00Z"
 doi: "10.1177/1461444818791318"
 
