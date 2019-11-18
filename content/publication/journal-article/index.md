@@ -55,7 +55,7 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+---
 title: "``You never really know who's looking'': Imagined surveillance across social media platforms"
 authors:
 - Duffy, B. E.
@@ -121,3 +121,4 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 {{% /alert %}}
 
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+---
