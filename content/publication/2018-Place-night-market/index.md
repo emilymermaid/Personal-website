@@ -28,8 +28,8 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://journals.sagepub.com/doi/abs/10.1177/1206331217741085"
-url_pdf: 
+url: ''
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
