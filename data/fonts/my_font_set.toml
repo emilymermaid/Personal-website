@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Fjalla+One|Noto+Sans+JP"
+google_fonts = "Old+Standard+TT:400i|Rubik"
 
 # Font families
-heading_font = "Fjalla One"
-body_font = "Noto Sans JP"
-nav_font = "Noto Sans JP"
-mono_font = "Noto Sans JP"
+heading_font = "Old Standard TT"
+body_font = "Rubik"
+nav_font = "Rubik"
+mono_font = "Rubik"
