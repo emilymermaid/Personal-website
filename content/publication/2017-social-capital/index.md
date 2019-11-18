@@ -24,7 +24,7 @@ abstract: New media researchers have shown that Facebook use and norms of online
 
 tags:
 - Social media
-- Surveillance
+- Social capital
 featured: false
 
 # links:
