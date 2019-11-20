@@ -1,5 +1,8 @@
 ---
 title: Recent & Upcoming Talks
+summary: "Talks"
+date: "2019-01-01T00:00:00Z"  # Add today's date.
+type: "widget_page"
 
 # View.
 #   1 = List
