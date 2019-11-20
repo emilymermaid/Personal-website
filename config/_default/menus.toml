@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Home"
+  name = "About Me"
   url = "#about"
   weight = 10
 
@@ -15,7 +15,7 @@
 
 [[main]]
   name = "Projects"
-  url = "#projects"
+  url = "projects/"
   weight = 20
 
 [[main]]
@@ -25,12 +25,12 @@
 
 [[main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "teaching/"
   weight = 40
 
 [[main]]
-  name = "Talks"
-  url = "#talks"
+  name = "Conferences"
+  url = "talk/"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
