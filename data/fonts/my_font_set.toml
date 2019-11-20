@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Arvo|Lato"
+google_fonts = "Gentium+Book+Basic|Open+Sans"
 
 # Font families
-heading_font = "Arvo"
-body_font = "Lato"
-nav_font = "Lato"
-mono_font = "Lato"
+heading_font = "Open Sans"
+body_font = "Gentium Book Basic"
+nav_font = "Gentium Book Basic"
+mono_font = "Gentium Book Basic"
