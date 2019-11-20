@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Gentium+Book+Basic|Open+Sans"
+google_fonts = "Libre+Baskerville|Open+Sans"
 
 # Font families
 heading_font = "Open Sans"
-body_font = "Gentium Book Basic"
-nav_font = "Gentium Book Basic"
-mono_font = "Gentium Book Basic"
+body_font = "Libre Baskerville"
+nav_font = "Libre Baskerville"
+mono_font = "Libre Baskerville"
