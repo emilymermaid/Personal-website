@@ -19,7 +19,7 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 
-Research Interests:
+research interests:
 - Metric Culture
 - Gig Economy
 - Critical Data Studies
