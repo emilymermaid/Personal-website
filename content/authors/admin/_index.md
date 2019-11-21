@@ -22,8 +22,9 @@ organizations:
 interests:
 - Metric Culture
 - Gig Economy
+- Sociology of Quantification
 - Critical Data Studies
-- Politics of Algorithms
+- Politics of Platforms and Algorithms
 - The Impacts of Technologies on Service Work
 
 education:
