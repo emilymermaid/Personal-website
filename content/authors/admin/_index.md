@@ -29,15 +29,15 @@ interests:
 education:
   courses:
   - course: Ph.D. Candidate in Communication
-    institution: Cornell University
+    institution: [Cornell University](https://www.cornell.edu/)
     year: 2016 - Present
     committee members: AAA
   - course: MPhil. in Communication
     Committee Members: xxxxxxxx
-    institution: The Chinese University of Hong Kong
+    institution: [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/)
     year: 2016
   - course: BSSc. in Government and Public Administration
-    institution: The Chinese University of Hong Kong
+    institution: [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/)
     year: 2014
 
 # Social/Academic Networking
@@ -73,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a Ph.D. candidate in the Department of Communication at Cornell University. I study how algorithms and performance metrics transform and shape labor control and resistance in the digitally-enabled gig economy. 
+I'm a Ph.D. candidate in the [Department of Communication](https://communication.cals.cornell.edu/) at [Cornell University](https://www.cornell.edu/). I study how algorithms and performance metrics transform and shape labor control and resistance in the digitally-enabled gig economy. 
 
 My dissertation project "(Not) Managing Metrics: Algorithmic Labor Control and Resistance in the Gig Economy" is a qualitative multi-case study of digitally-enabled serivce work practices. By exploring and comparing three cases—(1) ride-hailing platforms (e.g., Uber and Lyft), (2) TaskRabbit, and (3) platform cooperatives—this project aims to unravel the power dynamics underlying the management, interpretation, and uses of performance metrics in digital service workplaces. Drawing on various sources of  data, including in-depth interviews with workers, participant observation, and discusive analysis of platform interfaces, this project offers a comparative perspective of how gig workers manage and are managed by algorithmic performance metrics.
 
