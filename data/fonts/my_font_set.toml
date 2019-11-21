@@ -2,10 +2,10 @@
 name = "my_font_set"
 
 # Optional Google font URL
-google_fonts = "Libre+Baskerville|Open+Sans"
+google_fonts = "Merriweather|Montserrat"
 
 # Font families
-heading_font = "Open Sans"
-body_font = "Libre Baskerville"
-nav_font = "Libre Baskerville"
-mono_font = "Libre Baskerville"
+heading_font = "Montserrat"
+body_font = "Merriweather"
+nav_font = "Merriweather"
+mono_font = "Merriweather"
