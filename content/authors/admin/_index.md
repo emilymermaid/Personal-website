@@ -73,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a fourth year Ph.D. candidate in the Department of Communication at Cornell University.
+I'm a Ph.D. candidate in the Department of Communication at Cornell University. I study how algorithms and performance metrics transform and shape labor control and resistance in the digitally-enabled gig economy. 
 
-
+My dissertation project "(Not) Managing Metrics: Algorithmic Labor Control and Resistance in the Gig Economy" is a qualitative multi-case study of digitally-enabled serivce work practices. By exploring and comparing three cases—(1) ride-hailing platforms (e.g., Uber and Lyft), (2) TaskRabbit, and (3) platform cooperatives—the primary objective of this project is to unravel the power dynamics underlying the management, interpretation, and uses of performance metrics in digital service workplaces. How do labor platforms use metrics to manage their distributed workforces? How do workers interpret and manage metrics as part of their daily work practices? How do workers' interpretation and uses of metrics vary depending on platform-specific socio-technical affordances and labor processes? What are the alternative models of labor management in the gig economy? To address these questions, this multi-case study draws on various sources of qualitative data, including in-depth interviews with workers, participant observation, and discusive analysis of platform interfaces and company documents. Overall, my dissertation project aims to offer a comparative perspective of algorithmic labor control and resistance in the gig economy. 
