@@ -25,7 +25,7 @@ abstract: There is a new cast of self-proclaimed experts offering “how-to-succ
 
 tags:
 - Uber
-- Gig Economy
+- Gig economy
 - Social media
 featured: false
 
