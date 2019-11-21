@@ -29,15 +29,15 @@ interests:
 education:
   courses:
   - course: Ph.D. Candidate in Communication
-    institution: [Cornell University](https://www.cornell.edu/)
+    institution: Cornell University
     year: 2016 - Present
     committee members: AAA
   - course: MPhil. in Communication
     Committee Members: xxxxxxxx
-    institution: [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/)
+    institution: The Chinese University of Hong Kong
     year: 2016
   - course: BSSc. in Government and Public Administration
-    institution: [The Chinese University of Hong Kong](http://www.cuhk.edu.hk/)
+    institution: The Chinese University of Hong Kong
     year: 2014
 
 # Social/Academic Networking
