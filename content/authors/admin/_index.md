@@ -18,9 +18,8 @@ organizations:
   url: "https://communication.cals.cornell.edu/people/oliver-ngai-keung-chan/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+Research Interests:
 - Metric Culture
 - Gig Economy
 - Critical Data Studies
@@ -32,6 +31,7 @@ education:
   - course: Ph.D. Candidate in Communication
     institution: Cornell University
     year: 2016 - Present
+    committee members: AAA
   - course: MPhil. In Communication
     Committee Members: xxxxxxxx
     institution: The Chinese University of Hong Kong
@@ -73,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a Ph.D. candidate in the Department of Communication at Cornell University. I study how algorithms and performance metrics transform and shape labor control and resistance in the digitally-enabled gig economy. 
+I'm a Ph.D. candidate in the Department of Communication at Cornell University. I study how algorithms and performance metrics transform and shape labor control and resistance in the digitally-enabled gig economy. My research has appeared in such journals as *New Media & Society*, *Surveillance & Society*, *Media and Communication*, and *Space and Culture*, among others.
 
-My dissertation project "(Not) Managing Metrics: Algorithmic Labor Control and Resistance in the Gig Economy" is a qualitative multi-case study of digitally-enabled serivce work practices. By exploring and comparing three cases—(1) ride-hailing platforms (e.g., Uber and Lyft), (2) TaskRabbit, and (3) platform cooperatives—this project aims to unravel the power dynamics underlying the management, interpretation, and uses of performance metrics in digital service workplaces. Drawing on various sources of  data, including in-depth interviews with workers, participant observation, and discusive analysis of platform interfaces and company documents, this project offers a comparative perspective of how gig workers manage and are managed by algorithmic performance metrics.
+My dissertation project "(Not) Managing Metrics: Algorithmic Labor Control and Resistance in the Gig Economy" is a qualitative multi-case study of digitally-enabled serivce work practices. By exploring and comparing three cases—(1) ride-hailing platforms (e.g., Uber and Lyft), (2) TaskRabbit, and (3) platform cooperatives—this project aims to unravel the power dynamics underlying the management, interpretation, and uses of performance metrics in digital service workplaces. Drawing on various sources of  data, including in-depth interviews with workers, participant observation, and discusive analysis of platform interfaces, this project offers a comparative perspective of how gig workers manage and are managed by algorithmic performance metrics.
+
+In addition to my doctoral research, I am also interested in studying the politics of urban space and urban social movements. Before coming to Cornell, I spent a year of fieldwork in a multi-ethnic street market in Hong Kong, studying hawkers' work practices in the face of legal, spatial, and temporal uncertainites. I received a Master of Philiosphy in Communication and a BSSc in Government and Public Administration from the Chinese University of Hong Kong. 
