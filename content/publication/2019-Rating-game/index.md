@@ -25,8 +25,9 @@ abstract: On-demand labor platforms are built around user-generated rating syste
 tags:
 - Uber
 - Gig economy
-- Metrics
-- Politics of algorithms
+- Metric Culture
+- Critical Data Studies
+- Politics of Platforms and Algorithms
 featured: false
 
 # links:
