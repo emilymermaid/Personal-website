@@ -28,6 +28,7 @@ tags:
 - Critical Data Studies
 - Politics of Platforms and Algorithms
 - Social space
+- The Impacts of Technologies on Service Work
 featured: false
 
 # links:
