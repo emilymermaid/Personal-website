@@ -26,7 +26,7 @@ abstract: There is a new cast of self-proclaimed experts offering “how-to-succ
 tags:
 - Uber
 - Gig economy
-- Social media
+- Politics of Platforms and Algorithms
 featured: false
 
 # links:
