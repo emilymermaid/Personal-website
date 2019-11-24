@@ -65,9 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Please see {{% staticref "files/CV_2019_11.pdf" %}}CV{{% /staticref %}} for the full list of publications and more updates. 
-
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 {{% /alert %}}
+
+Please see {{% staticref "files/CV_2019_11.pdf" %}}CV{{% /staticref %}} for the full list of publications and more updates. 
+
