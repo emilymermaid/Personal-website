@@ -2,7 +2,7 @@
 title: "''Becoming an expert in driving for Uber'': Uber driver/bloggers'
 performance of expertise and self-presentation on YouTube"
 authors:
-- **Chan, N. K.**
+- Chan, N. K.
 date: "2019-09-01T00:00:00Z"
 doi: "10.1177/1461444819837736"
 
