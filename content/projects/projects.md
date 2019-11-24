@@ -20,26 +20,6 @@ subtitle = ""
   
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
-  
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
-  
-  [[content.filter_button]]
-    name = "R Packages"
-    tag = "rpackage"
-  
-  [[content.filter_button]]
-    name = "Shiny Apps"
-    tag = "shinyapp"
-    
-  [[content.filter_button]]
-    name = "Learn R"
-    tag = "education"
-    
-  [[content.filter_button]]
-    name = "Other Projects"
-    tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
