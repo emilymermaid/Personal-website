@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+weight = 65  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -24,6 +24,22 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
+  
+  [[content.filter_button]]
+    name = "R Packages"
+    tag = "rpackage"
+  
+  [[content.filter_button]]
+    name = "Shiny Apps"
+    tag = "shinyapp"
+    
+  [[content.filter_button]]
+    name = "Learn R"
+    tag = "education"
+    
+  [[content.filter_button]]
+    name = "Other Projects"
+    tag = "other"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
