@@ -19,7 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 I'm a doctoral candidate in the Department of Communication at Cornell University. Currently, I study how algorithms and performance metrics transform and shape labor control and resistance in the digitally-enabled gig economy.
-
 interests:
 - Metric Culture
 - Gig Economy
