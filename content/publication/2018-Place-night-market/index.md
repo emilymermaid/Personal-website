@@ -23,7 +23,9 @@ abstract: Drawing insights from the literature around cultural discourse theory,
 # Summary. An optional shortened abstract.
 
 tags:
+- Precarious Work
 - Social space
+- Hong Kong
 featured: false
 
 # links:
