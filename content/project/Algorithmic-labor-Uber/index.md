@@ -5,7 +5,7 @@ title: "Algorithmic Labor Management and Uber Drivers"
 authors: [admin]
 tags: []
 categories: []
-date: 2019-11-20T08:00:20-07:00
+date: 2019-10-20T08:00:20-07:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
