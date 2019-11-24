@@ -23,7 +23,6 @@ abstract: New media researchers have shown that Facebook use and norms of online
 # Summary. An optional shortened abstract.
 
 tags:
-- Social media
 - Social capital
 featured: false
 
