@@ -17,7 +17,7 @@ header:
   image: ""
 ---
 
-Please see CV for more updates. 
+Please see {{% staticref "files/CV_2019_11.pdf" %}}CV{{% /staticref %}} for more updates. 
 
 **Chan, N. K.** (2019). "Becoming an expert in driving for Uber": Uber driver/bloggers' performance of expertise and self-presentation on YouTube. Presented at the International Communication Association Conference, Washington, DC, May 24-28.
 
