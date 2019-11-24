@@ -23,9 +23,9 @@ abstract: Social media users are routinely counseled to cultivate their online p
 # Summary. An optional shortened abstract.
 
 tags:
-- Social media
 - Surveillance
 - Self-branding
+- Social Media
 featured: false
 
 # links:
