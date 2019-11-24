@@ -23,7 +23,7 @@ abstract: Social movements are voluntary events whose participants have the righ
 # Summary. An optional shortened abstract.
 
 tags:
-- Social movements
+- Social Movement
 - Legitimacy
 - Hong Kong
 featured: false
