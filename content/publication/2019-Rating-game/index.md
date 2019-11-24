@@ -29,6 +29,7 @@ tags:
 - Critical Data Studies
 - Surveillance
 - Politics of Platforms and Algorithms
+- The Impacts of Technologies on Service Work
 featured: false
 
 # links:
