@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D. Candidate in Communication
 
 # Organizations/Affiliations
 organizations:
@@ -18,6 +18,7 @@ organizations:
   url: "https://communication.cals.cornell.edu/people/oliver-ngai-keung-chan/"
 
 # Short bio (displayed in user profile at end of posts)
+I'm a doctoral candidate in the Department of Communication at Cornell University. My research interests include metric culture; gig economy; sociology of quantification; critical data studies; politics of platforms and algorithms; and the impacts of technology on service work.
 
 interests:
 - Metric Culture
@@ -25,7 +26,7 @@ interests:
 - Sociology of Quantification
 - Critical Data Studies
 - Politics of Platforms and Algorithms
-- The Impacts of Technologies on Service Work
+- The Impacts of Technology on Service Work
 
 education:
   courses:
