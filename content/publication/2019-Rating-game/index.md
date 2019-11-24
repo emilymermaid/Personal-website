@@ -27,6 +27,7 @@ tags:
 - Gig economy
 - Metric Culture
 - Critical Data Studies
+- Surveillance
 - Politics of Platforms and Algorithms
 featured: false
 
