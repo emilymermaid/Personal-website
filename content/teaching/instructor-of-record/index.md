@@ -65,3 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+**COMM3760 Planning Communication Campaigns** (Spring 2020, Cornell)
+**COMM2200 Media Communication** (Online course; Summer 2019, Summer 2018, Cornell)
+
