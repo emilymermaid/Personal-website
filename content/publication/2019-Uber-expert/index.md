@@ -27,6 +27,8 @@ tags:
 - Uber
 - Gig economy
 - Politics of Platforms and Algorithms
+- Self-branding
+- Social Media
 featured: false
 
 # links:
