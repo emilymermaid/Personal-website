@@ -5,12 +5,12 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#101357"
+primary = "#B31B1B"
 
 # Menu
-menu_primary = "#101357" # 500
+menu_primary = "#B31B1B" # 500
 menu_text = "#f8f8ff"
-menu_text_active = "#B31B1B" # A100
+menu_text_active = "#f8f8ff" # A100
 menu_title = "#f8f8ff"
 
 # Home sections
