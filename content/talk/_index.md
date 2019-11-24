@@ -18,4 +18,5 @@ header:
 ---
 
 Su, C., & Chan, N. K. (2016). Predicting social capital: The implications of Facebook intensity, perceived attractiveness of contents, and relationship maintenance strategies. Presented at the ICA Conference, Fukuoka, Japan, June 9-13.
+
 Chan, N. K., & Su, C. (2015). Internet memes in social movement: How the mobilization effects are facilitated and constrained in Hong Kong Umbrella Movement. Presented at the WUN Understanding Global Digital Cultures Conference, Hong Kong, April 25-26.
