@@ -17,4 +17,4 @@ header:
   image: ""
 ---
 
-My CV is available for download here.
+My CV is available for download {{% staticref "files/CV_2019_11.pdf" %}}here{{% /staticref %}}.
