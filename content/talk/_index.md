@@ -1,5 +1,5 @@
 ---
-title: Conference Presentations
+title: Conferences
 summary: "Conference Presentations"
 date: "2019-01-01T00:00:00Z"  # Add today's date.
 type: "widget_page"
@@ -16,6 +16,9 @@ header:
   caption: ""
   image: ""
 ---
+
+Please see CV for more updates. 
+
 **Chan, N. K.** (2019). "Becoming an expert in driving for Uber": Uber driver/bloggers' performance of expertise and self-presentation on YouTube. Presented at the International Communication Association Conference, Washington, DC, May 24-28.
 
 Kwok, C. & **Chan, N. K.** (2018). The making of contentious political space: The transformation of Victoria Park. Presented at Hong Kong Political Science Association Annual Conference, Hong Kong, November 3.
