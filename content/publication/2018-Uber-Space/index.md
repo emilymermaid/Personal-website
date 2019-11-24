@@ -25,8 +25,9 @@ abstract: Digital data have become a form of “objectivation”, which affect h
 tags:
 - Uber
 - Gig Economy
+- Critical Data Studies
+- Politics of Platforms and Algorithms
 - Social space
-- Politics of algorithms
 featured: false
 
 # links:
