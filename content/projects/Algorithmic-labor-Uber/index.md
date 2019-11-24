@@ -39,5 +39,6 @@ url_video: ""
 slides: ""
 ---
 
+This is a project that examines Uber drivers' work practices.
 
 
