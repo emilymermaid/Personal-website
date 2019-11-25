@@ -26,6 +26,14 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
+    name = "On-going Projects"
+    tag = "on-going"
+    
+   [[content.filter_button]]
+    name = "Archived Projects"
+    tag = "archived"    
+    
+  [[content.filter_button]]
     name = "Gig Economy"
     tag = "gigeconomy"
 
@@ -36,14 +44,6 @@ subtitle = ""
    [[content.filter_button]]
     name = "Hong Kong"
     tag = "hk"
-    
-   [[content.filter_button]]
-    name = "On-going Projects"
-    tag = "on-going"
-
-   [[content.filter_button]]
-    name = "Archived Projects"
-    tag = "archived"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -87,4 +87,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Here're some 
+Below you will find a summary of selected projects I've recently participated in. You You may filter these projects based on their status (on-going or archived) and topics.
