@@ -38,9 +38,13 @@ subtitle = ""
     tag = "hk"
     
    [[content.filter_button]]
-    name = "Others"
-    tag = "others"
-    
+    name = "On-going Projects"
+    tag = "on-going"
+
+   [[content.filter_button]]
+    name = "Archived Projects"
+    tag = "archived"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "1"
@@ -82,3 +86,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Here're some 
