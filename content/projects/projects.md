@@ -27,7 +27,7 @@ subtitle = ""
 
   [[content.filter_button]]
     name = "Active"
-    tag = "on-going"
+    tag = "active"
     
    [[content.filter_button]]
     name = "Archived"
