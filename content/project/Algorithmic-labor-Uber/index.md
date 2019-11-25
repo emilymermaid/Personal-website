@@ -3,7 +3,7 @@
 
 title: "Algorithmic Labor Management and Uber Drivers"
 authors: [admin]
-tags: [gigeconomy, active, platforms]
+tags: [gigeconomy, archived, platforms]
 categories: []
 date: 2019-10-20T08:00:20-07:00
 
