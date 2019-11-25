@@ -26,11 +26,11 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "On-going Projects"
+    name = "Active"
     tag = "on-going"
     
    [[content.filter_button]]
-    name = "Archived Projects"
+    name = "Archived"
     tag = "archived"    
     
   [[content.filter_button]]
@@ -87,4 +87,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Below you will find a summary of selected projects I've recently participated in. You You may filter these projects based on their status (on-going or archived) and topics.
+Below you will find a summary of selected projects I've recently participated in. You You may filter these projects based on their status (active or archived) and topics.
