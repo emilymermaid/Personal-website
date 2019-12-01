@@ -45,7 +45,8 @@ How do algorithmic metrics (e.g., ratings, rankings, and reviews) function as te
 1. How do platforms use metrics to manage their distributed workforces? 
 2. How do workers interpret and manage metrics as part of their daily work practices? 
 3. How do metrics affect the interactions between platform owners, workers, and consumers? 
-4. How do workers’ interpretation and uses of metrics vary depending on platform-specific socio-technical features and labor processes? 5. What are the alternative models of labor management in the gig economy, if any?
+4. How do workers’ interpretation and uses of metrics vary depending on platform-specific socio-technical features and labor processes? 
+5. What are the alternative models of labor management in the gig economy, if any?
 
 
 **Dissertation Committee:** [Lee Humphreys](http://blogs.cornell.edu/humphreys/) (Chair), [Brooke Erin Duffy](https://www.brookeduffy.com/), [Tarleton Gillespie](http://www.tarletongillespie.org/), and [Malte Ziewitz](https://zwtz.org/)
