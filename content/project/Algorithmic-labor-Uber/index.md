@@ -48,7 +48,11 @@ This was a pilot research project (and my second-year project at Cornell) that e
 To address these questions, I drew on in-depth interviews with Uber drivers as well as discursive analysis of an Uber driver online forum and Uber's corporate discourse. The findings documented (1) the surveillance functions and ramifications of Uber's rating system; (2) the coordination and normalization of drivers' spatial movement through location-related metrics; (3) drivers' reactive practices which attempt to score well and circumvenet their data contributions to the platform; and (4) drivers' information-sharing practices on YouTube.
 
 **Advisor:** [Lee Humphreys](http://blogs.cornell.edu/humphreys/)
+
 **Publications:** 
+
 * Chan, N. K. (2019). ["Becoming an expert in driving for Uber": Uber driver/bloggers' performance of expertise and self-presentation on YouTube](https://journals.sagepub.com/doi/abs/10.1177/1461444819837736). *New Media & Society*, *21*(9), 2048-2067.
+
 * Chan, N. K. (2019). [The rating game: The discipline of Uber's user-generated ratings](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/12911). *Surveillance & Society*, *17*(1/ 2), 183-190.
+
 * Chan, N. K., & Humphreys, L. (2018). [Mediatization of social space and the case of Uber drivers](https://www.cogitatiopress.com/mediaandcommunication/article/view/1316). *Media and Communication*, *6*(2), 29-38.
