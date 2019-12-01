@@ -5,7 +5,7 @@ title: "Dissertation Project: (Not) Managing Metrics: Algorithmic Labor Control 
 summary: "Dissertaion project focusing on the politics of metrics in the gig economy"
 authors: [admin]
 tags: [Gig economy, Metrics, Politics of algorithms]
-categories: []
+categories: [archived, gigeconomy, platforms]
 date: 2019-11-20T08:00:20-07:00
 
 # Optional external URL for project (replaces project detail page).
