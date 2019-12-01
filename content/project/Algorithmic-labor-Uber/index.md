@@ -4,10 +4,7 @@
 title: "Algorithmic Labor Management and Uber Drivers' Algorithmic Imaginaries"
 authors: [admin]
 tags: [Gig Economy, Politics of Platforms and Algorithms, Archived]
-date: 2019-10-20T08:00:20-07:00
 
-# Optional external URL for project (replaces project detail page).
-external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
