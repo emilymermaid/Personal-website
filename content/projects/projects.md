@@ -87,4 +87,4 @@ subtitle = ""
  css_class = ""
 +++
 
-Below you will find a summary of selected projects I've recently participated in. You You may filter these projects based on their status (active or archived) and topics.
+Below you will find a summary of selected projects I've recently participated in. You may filter these projects based on their status (active or archived) and topics.
