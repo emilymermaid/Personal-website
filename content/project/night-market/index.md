@@ -4,7 +4,7 @@
 title: "Place-making and Communication Practice: Precarity in a Night Market in Hong Kong"
 authors: [admin]
 tags: [hk, archived]
-summary: "MPhil thesis about street hawkers in Hong Kong"
+summary: "MPhil thesis about street hawkers' precarious work practices in Hong Kong"
 categories: []
 date: "2017-08-01T00:00:00Z"
 
