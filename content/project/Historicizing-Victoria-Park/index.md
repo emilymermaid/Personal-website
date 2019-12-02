@@ -12,7 +12,7 @@ date: "2019-08-01T00:00:00Z"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image: 
-  caption: ""
+  caption: Image by [Smart Ken](https://pixabay.com/users/smart40-3349756/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1981707) on [Pixabay](https://pixabay.com/)
   focal_point: Smart
   preview_only: false
 
