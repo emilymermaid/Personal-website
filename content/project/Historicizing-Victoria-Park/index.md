@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Historicizing a contentious political space in Hong Kong"
+title: "Historicizing a Contentious Political Space in Hong Kong"
 authors: [admin]
 tags: [hk, archived]
 summary: "Project that examines the political transformation of Victoria Park in Hong Kong"
