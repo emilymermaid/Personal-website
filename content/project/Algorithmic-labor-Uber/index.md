@@ -5,7 +5,7 @@ title: "Algorithmic Labor Management and Uber Drivers' Algorithmic Imaginaries"
 authors: [admin]
 tags: [archived,gigeconomy, platforms]
 categories: []
-date: 2019-10-09T08:00:20-07:00
+date: "2019-09-01T00:00:00Z"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -17,11 +17,11 @@ image:
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-links:
-- name: 
-  url: 
-  icon_pack: 
-  icon: 
+#  links:
+#  - name: 
+#    url: 
+#    icon_pack: 
+#    icon: 
 
 url_code: ""
 url_pdf: ""
