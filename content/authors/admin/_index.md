@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Ngai Keung (Oliver) Chan
+name: Ngai Keung Chan
 
 # Username (this should match the folder name)
 authors: 
@@ -79,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a Ph.D. candidate in the [Department of Communication](https://communication.cals.cornell.edu/) at [Cornell University](https://www.cornell.edu/). I study the role of algorithms in transforming labor processes in the digitally-enabled gig economy. Using qualitative methods, I focus on how digitally-enabled service workers encounter, interpret, and manage algorithmic performance metrics (e.g., ratings, rankings, reviews, etc.) as part of their daily work practices. 
+Hi! My name is Ngai Keung (Oliver) Chan. I'm a Ph.D. candidate in the [Department of Communication](https://communication.cals.cornell.edu/) at [Cornell University](https://www.cornell.edu/). I study the role of algorithms in transforming labor processes in the digitally-enabled gig economy. Using qualitative methods, I focus on how digitally-enabled service workers encounter, interpret, and manage algorithmic performance metrics (e.g., ratings, rankings, reviews, etc.) as part of their daily work practices. 
 
 My dissertation project "(Not) Managing Metrics: Algorithmic Labor Control and Resistance in the Gig Economy" is a qualitative multi-case study of digitally-enabled serivce workers' practices. It aims to unravel the power dynamics underlying the production, interpretation, and uses of algorithmic performance metrics across on-demand labor platforms (e.g., Uber, Lyft, TaskRabbit, etc.). It aims to offers a comparative perspective of the politics of algorithmic metrics in digital service workplaces. 
 
