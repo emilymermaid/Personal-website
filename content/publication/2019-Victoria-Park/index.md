@@ -6,7 +6,7 @@ date: "in press"
 doi: 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-12-01T00:00:00Z"
+publishDate: "2019-12-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -15,7 +15,7 @@ publishDate: "2019-12-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Space and Culture"
+publication: "*Space and Culture*"
 publication_short: ""
 
 abstract: Space plays a vital role in structuring and forming social movements into particular shapes— especially via its physical settings, the representation constructed through dominant and alternative discourses, and protesters’ spatial practices therein. Geographers and urban theorists have long argued that public space is of paramount significance to collective actions. Yet we know less about how a sustainable, manageable, and iconic public space for continuous movement mobilization is created. This article uses Victoria Park, an iconic public space of contention in Hong Kong, as a case to examine how a contentious political space is made. Through archival research, we demonstrate how the Defend Diaoyutai Islands Movement of the 1970s transformed the park from an “empty” recreational space to a political space. People’s political actions made possible this transformation of the spatial order. Nonetheless, the British colonial government re-policed the spatial norms of the space, which in turn regulated both the government and protesters. The study affords significant opportunities for thinking about the spatial constraints of contentious politics.
