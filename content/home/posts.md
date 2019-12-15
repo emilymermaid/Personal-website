@@ -65,3 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+* Forthcoming article: [Chi Kwok](https://politics.utoronto.ca/phd-candidate/kwok-chi/) and I wrote about the politicization and re-policing of Hong Kong's Victoria Park in the 1970s in *Space and Culture*. [11/19]
