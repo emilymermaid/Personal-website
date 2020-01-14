@@ -1,5 +1,5 @@
 ---
-title: "The Making of Contentious Political Space: The Transformation of Hong Kong?€™s Victoria Park"
+title: "The Making of Contentious Political Space: The Transformation of Hong Kong's Victoria Park"
 authors:
 - Kwok, C., \& Chan, N. K.
 date: "2020-01-01T00:00:00Z"
