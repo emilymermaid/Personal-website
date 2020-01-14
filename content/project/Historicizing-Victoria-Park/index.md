@@ -4,7 +4,7 @@
 title: "Historicizing a Contentious Political Space in Hong Kong"
 authors: [admin]
 tags: [hk, archived]
-summary: "Project that examines the political transformation of Victoria Park in Hong Kong"
+summary: "Project that examined the political transformation of Victoria Park in Hong Kong"
 categories: []
 date: "2019-08-01T00:00:00Z"
 

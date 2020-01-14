@@ -4,7 +4,7 @@
 title: "Algorithmic Labor Management and Uber Drivers' Algorithmic Imaginaries"
 authors: [admin]
 tags: [archived,gigeconomy, platforms]
-summary: "Pilot research project that examines Uber drivers' algorithmic imaginaries and practices"
+summary: "Pilot research project that examined Uber drivers' algorithmic imaginaries and practices"
 categories: []
 date: "2019-09-01T00:00:00Z"
 
