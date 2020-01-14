@@ -43,6 +43,10 @@ The Umbrella Movement was one of the largest social movements in Hong Kong's rec
 
 **Publications:** 
 
-* Kwok, C., & Chan, N. K. (2017).  Legitimacy and forced democratization in
-social movements: A case study of the Umbrella Movement in Hong Kong. *China Perspectives*.*2017/3*, 7-16.
+* Kwok, C., & Chan, N. K. (2017). Legitimacy and forced democratization in
+social movements: A case study of the Umbrella Movement in Hong Kong. *China Perspectives*.*2017/ 3*, 7-16.
+
+* Kwok, C., & Chan, N. K. (2016, April 5). The problem of legitimacy in the Hong Kong Umbrella Movement. *Discover Society*.*31*. Available [here](https://discoversociety.org/2016/04/05/the-problem-of-legitimacy-in-the-hong-kong-umbrella-movement/)
+
+Research from this project was also presented at the [2016 IPSA World Congress of Political Science](https://www.ipsa.org/events/congress/poznan2016).
 
