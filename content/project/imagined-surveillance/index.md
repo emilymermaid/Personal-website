@@ -45,3 +45,5 @@ Drawing on in-depth interviews with college-aged youth, Brooke Erin Duffy and I 
 
 * Duffy, B. E., & Chan, N. K. (2019). [“You never really know who’s looking”:
 Imagined surveillance across social media platforms](https://journals.sagepub.com/doi/abs/10.1177/1461444818791318). *New Media & Society*, *21*(1), 119-138.
+
+Research from this project was also presented at the [2018 ICA Annual Conference](https://convention2.allacademic.com/one/ica/ica18/index.php?click_key=1&obf_var=3114844&PHPSESSID=gv8phu6ohsg0jj8ilpkt2lj0m6).
