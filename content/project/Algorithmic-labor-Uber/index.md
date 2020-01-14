@@ -55,3 +55,6 @@ To address these questions, I drew on in-depth interviews with Uber drivers as w
 * Chan, N. K. (2019). [The rating game: The discipline of Uber's user-generated ratings](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/12911). *Surveillance & Society*, *17*(1/ 2), 183-190.
 
 * Chan, N. K., & Humphreys, L. (2018). [Mediatization of social space and the case of Uber drivers](https://www.cogitatiopress.com/mediaandcommunication/article/view/1316). *Media and Communication*, *6*(2), 29-38.
+
+Research from this project was also presented at the [2018 ICA Annual Conference](https://convention2.allacademic.com/one/ica/ica18/index.php?click_key=1&obf_var=3114844&PHPSESSID=gv8phu6ohsg0jj8ilpkt2lj0m6) and the [2019 ICA Annual Conference](https://www.icahdq.org/page/2019Conference).
+
