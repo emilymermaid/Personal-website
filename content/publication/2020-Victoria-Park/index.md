@@ -2,7 +2,7 @@
 title: "The Making of Contentious Political Space: The Transformation of Hong Kong?€™s Victoria Park"
 authors:
 - Kwok, C., \& Chan, N. K.
-date: "forthcoming"
+date: "2020"
 doi: 
 
 # Schedule page publish date (NOT publication's date).
