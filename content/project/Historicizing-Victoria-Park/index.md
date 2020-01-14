@@ -45,3 +45,4 @@ Located in Causeway Bay, Victoria Park is an iconic space of contention in Hong 
 
 * Kwok, C., & Chan, N. K. (in press). The making of contentious political space: The transformation of Hong Kong’s Victoria Park. *Space and Culture*.
 
+Research from this project was also presented at the [2018 Hong Kong Political Science Association Annual Conference](https://hkpsa.wordpress.com/2018/05/03/hkpsa-annual-conference/).
