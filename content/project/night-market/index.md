@@ -44,3 +44,5 @@ My M.Phil. thesis project was situated in a multi-ethnic night market consisting
 **Publications:** 
 
 * Chan, N. K. (2019). [Place-making and communication practice: Everyday precarity in a night market in Hong Kong](https://journals.sagepub.com/doi/abs/10.1177/1206331217741085). *Space and Culture*, *21*(4), 439-454.
+
+Research from this project was also presented at the [2016 ICA Annual Conference](https://convention2.allacademic.com/one/ica/ica16/) and the [2017 ICA Annual Conference](https://convention2.allacademic.com/one/ica/ica17/).
