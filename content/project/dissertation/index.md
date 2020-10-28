@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dissertation Project: (Not) Managing Metrics: Algorithmic Labor Control and Resistance in the Gig Economy"
+title: "Dissertation Project: Fighting Algorithmic Metrics: A Multi-Case Study of Labor Control and Resistance in the Gig Economy"
 summary: "Dissertaion project focusing on the politics of metrics in the gig economy"
 authors: [admin]
 tags: [active, gigeconomy, platforms]
