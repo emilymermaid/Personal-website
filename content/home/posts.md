@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
+* My co-authored article (with [Chi Kwok](https://politics.utoronto.ca/phd-candidate/kwok-chi/)) "Guerilla Capitalism and the Platform Economy: Governing Uber in China, Taiwan, and Hong Kong" receives the Best Student Paper Award from the Association of Internet Researchers (AoIR) 2020 Conference. [Oct 2020]
+
 * Forthcoming article: [Chi Kwok](https://politics.utoronto.ca/phd-candidate/kwok-chi/) and I wrote about the politicization and re-policing of Hong Kong's Victoria Park in the 1970s in *Space and Culture*. [Nov 2019]
 
 * Two new articles about Uber: "The rating game: The discipline of Uber's user-generated ratings" in [*Surveillance & Society*](https://ojs.library.queensu.ca/index.php/surveillance-and-society/article/view/12911) and "''Becoming an expert in driving for Uber'': Uber driver/bloggers' performance of expertise and self-presentation on YouTube" in [*New Media & Society*](https://journals.sagepub.com/doi/10.1177/1461444819837736). [April 2019]
