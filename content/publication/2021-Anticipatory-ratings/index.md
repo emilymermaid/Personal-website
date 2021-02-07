@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Communication, Culture & Critique"
+publication: "Communication, Culture & Critique"
 publication_short: ""
 
 abstract: Drawing insights from the sociology of expectations and recent studies on future visions in communication studies, this article traces and analyzes how Wired—a technology news provider and socio-technical vanguard whose vision is to uncover technological innovations—anticipated socio-technical visions of online ratings and reviews over two decades (1998–2018). The qualitative textual analysis of Wired’s coverage revealed two socio-technical visions, namely, promissory futures and problematic futures. The former embraced neoliberal discourses of consumer empowerment and accountability, whereas the latter entailed a pessimistic evaluation of the manipulation of online ratings and the potential of adopting online ratings beyond e-commerce platforms. The visions represented in Wired largely followed the logic of “technological solutionism.” This study affords opportunities for thinking about the role of popular media discourses and temporalities in shaping imagined futures of emerging technologies.
