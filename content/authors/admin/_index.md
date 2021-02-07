@@ -87,4 +87,4 @@ My dissertation project "Fighting Algorithmic Metrics: A Multi-Case Study of Lab
 
 In addition to my doctoral research, I am interested in studying the politics of urban space and social movements (with a particular geographic focus on Hong Kong, my hometown). Before coming to Cornell, I spent a year of fieldwork in a multi-ethnic street market in Hong Kong, studying hawkers' precarious work practices. I have also collaborated on research projects concerning the production and appropriation of public spaces for collective actions in Hong Kong.
 
-My research has appeared in such journals as *New Media & Society*, *Surveillance & Society*, *Media and Communication*, and *Space and Culture*, among others.
+My research has appeared in such journals as *New Media & Society*, *Communication, Culture & Critique*, *Surveillance & Society*, *Media and Communication*, and *Space and Culture*, among others.
